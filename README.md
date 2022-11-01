@@ -1,4 +1,4 @@
-## Oi! Sou a Sabrina Lopes 👋
+## <img align="center" alt="Sa" height="180" width="180" src="https://cdn.discordapp.com/attachments/1037101600562499619/1037116885977813052/Design_sem_nome_1.gif"> Oi! Sou a Sabrina Lopes
 
 <div align="center">
   <a href="https://github.com/Sabrina-Lopes">
